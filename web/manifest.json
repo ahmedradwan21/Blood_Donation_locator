@@ -1,6 +1,6 @@
 {
-    "name": "printer",
-    "short_name": "printer",
+    "name": "bldapp",
+    "short_name": "bldapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

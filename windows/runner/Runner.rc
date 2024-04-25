@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "printer" "\0"
+            VALUE "FileDescription", "bldapp" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "printer" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "printer.exe" "\0"
-            VALUE "ProductName", "printer" "\0"
+            VALUE "InternalName", "bldapp" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "bldapp.exe" "\0"
+            VALUE "ProductName", "bldapp" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
